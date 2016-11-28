@@ -1,9 +1,14 @@
 # dockerSer
 docker server
+
 git init
+
 git add README.md
+
 git commit -m "first commit"
+
 git remote add origin https://github.com/huangmeng4520/dockerSer.git
+
 git push -u origin master
 
 elasticsearch 5.0.1纯净版dockerfile，目前不能直接集成head插件，head插件必须单独作为nodejs服务器启动
